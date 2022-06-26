@@ -1,0 +1,11 @@
+GET http://localhost:8080/simple?value=value
+
+###
+
+POST http://localhost:8080/simple
+Content-Type: application/json
+
+{
+    "name" : "",
+    "email" : "abac"
+}
