@@ -1,6 +1,5 @@
 package com.himalaya.demo.himalaya.entity;
 
-import com.himalaya.demo.himalaya.MemberDto;
 import org.springframework.stereotype.Repository;
 
 import java.util.List;

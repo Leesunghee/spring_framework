@@ -1,6 +1,6 @@
 package com.himalaya.demo.himalaya.service;
 
-import com.himalaya.demo.himalaya.MemberDto;
+import com.himalaya.demo.himalaya.dto.MemberDto;
 import com.himalaya.demo.himalaya.entity.Member;
 import com.himalaya.demo.himalaya.entity.MemberRepository;
 import com.himalaya.demo.himalaya.exception.EntityNotFoundException;

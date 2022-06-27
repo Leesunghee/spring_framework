@@ -1,4 +1,4 @@
-package com.himalaya.demo.himalaya;
+package com.himalaya.demo.himalaya.dto;
 
 import com.himalaya.demo.himalaya.entity.Member;
 import lombok.*;
@@ -7,8 +7,8 @@ import javax.validation.constraints.Email;
 import javax.validation.constraints.NotEmpty;
 
 
-@AllArgsConstructor(access = AccessLevel.PROTECTED)
-@NoArgsConstructor(access = AccessLevel.PROTECTED)
+@AllArgsConstructor
+@NoArgsConstructor
 @Getter
 @Builder
 public class MemberDto {

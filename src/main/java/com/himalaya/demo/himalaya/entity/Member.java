@@ -1,6 +1,5 @@
 package com.himalaya.demo.himalaya.entity;
 
-import com.himalaya.demo.himalaya.MemberDto;
 import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Getter;

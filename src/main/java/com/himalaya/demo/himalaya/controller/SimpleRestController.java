@@ -1,6 +1,8 @@
-package com.himalaya.demo.himalaya;
+package com.himalaya.demo.himalaya.controller;
 
 
+import com.himalaya.demo.himalaya.ErrorCode;
+import com.himalaya.demo.himalaya.dto.MemberDto;
 import com.himalaya.demo.himalaya.exception.EntityNotFoundException;
 import com.himalaya.demo.himalaya.service.MemberService;
 import lombok.RequiredArgsConstructor;

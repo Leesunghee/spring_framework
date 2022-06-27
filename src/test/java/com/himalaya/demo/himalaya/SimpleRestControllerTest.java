@@ -1,5 +1,7 @@
 package com.himalaya.demo.himalaya;
 
+import com.himalaya.demo.himalaya.controller.SimpleRestController;
+import com.himalaya.demo.himalaya.dto.MemberDto;
 import com.himalaya.demo.himalaya.service.MemberService;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
